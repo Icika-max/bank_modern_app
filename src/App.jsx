@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './style'
-import { Navbar,Billing,CardDeal,Business,Clients,CTA,Stats,Footer,Testimonials,Hero} from './components'
+import { Navbar,Billing,CardDeal,Business,Clients,CTA,Stats,Footer,Testimonials,Hero } from './components'
 
 const App = () => {
   return (
@@ -25,6 +25,7 @@ const App = () => {
         <CTA/> 
         <Footer/>
         <Testimonials/>
+        
       </div>
     </div>
     
